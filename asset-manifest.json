@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/UnusualCubesApp/static/css/main.98f0fc16.chunk.css",
+    "main.js": "/UnusualCubesApp/static/js/main.46154adb.chunk.js",
+    "main.js.map": "/UnusualCubesApp/static/js/main.46154adb.chunk.js.map",
+    "runtime-main.js": "/UnusualCubesApp/static/js/runtime-main.bafdf14b.js",
+    "runtime-main.js.map": "/UnusualCubesApp/static/js/runtime-main.bafdf14b.js.map",
+    "static/js/2.a3432f31.chunk.js": "/UnusualCubesApp/static/js/2.a3432f31.chunk.js",
+    "static/js/2.a3432f31.chunk.js.map": "/UnusualCubesApp/static/js/2.a3432f31.chunk.js.map",
+    "static/js/3.6e832921.chunk.js": "/UnusualCubesApp/static/js/3.6e832921.chunk.js",
+    "static/js/3.6e832921.chunk.js.map": "/UnusualCubesApp/static/js/3.6e832921.chunk.js.map",
+    "index.html": "/UnusualCubesApp/index.html",
+    "static/css/main.98f0fc16.chunk.css.map": "/UnusualCubesApp/static/css/main.98f0fc16.chunk.css.map",
+    "static/js/2.a3432f31.chunk.js.LICENSE.txt": "/UnusualCubesApp/static/js/2.a3432f31.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/UnusualCubesApp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bafdf14b.js",
+    "static/js/2.a3432f31.chunk.js",
+    "static/css/main.98f0fc16.chunk.css",
+    "static/js/main.46154adb.chunk.js"
+  ]
+}
